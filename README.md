@@ -18,20 +18,15 @@ This notebook (`Benchmark.ipynb`) automates running vLLM's benchmark tool to:
 The goal is to help researchers and engineers quickly **evaluate performance trade-offs** between models or hardware setups.
 
 ---
-
-🧩 Usage
+## Usage
 
 1. Clone this repository
 
 git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
 
 2. Run the cells sequentially
 
 The notebook will automatically:
-
 Launch the vLLM benchmark
-
 Record performance metrics
-
 Generate comparative plots
