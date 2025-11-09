@@ -27,6 +27,6 @@ The goal is to help researchers and engineers quickly **evaluate performance tra
 2. Run the cells sequentially
 
 The notebook will automatically:
-Launch the vLLM benchmark
-Record performance metrics
-Generate comparative plots
+Launch the vLLM benchmark,
+Record performance metrics,
+Generate comparative plots.
