@@ -22,7 +22,7 @@ The goal is to help researchers and engineers quickly **evaluate performance tra
 
 1. Clone this repository
 
-git clone https://github.com/<your-username>/<your-repo>.git
+``` git clone https://github.com/<your-username>/<your-repo>.git```
 
 2. Run the cells sequentially
 
